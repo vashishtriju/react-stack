@@ -3,6 +3,7 @@ import Channel from './Channel.jsx';
 
 import Card from 'material-ui/Card';
 import List from 'material-ui/List';
+
 class ChannelList extends React.Component{
     constructor(props){
         super(props);

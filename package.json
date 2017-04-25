@@ -20,6 +20,8 @@
   "dependencies": {
     "babel-loader": "^7.0.0",
     "css-loader": "^0.28.0",
+    "firebase": "^3.8.0",
+    "lodash": "^4.17.4",
     "material-ui": "^0.17.4",
     "node-sass": "^4.5.2",
     "react": "^15.5.4",
@@ -28,6 +30,7 @@
     "react-tap-event-plugin": "^2.0.1",
     "sass-loader": "^6.0.3",
     "style-loader": "^0.16.1",
+    "trim": "0.0.1",
     "webpack": "^2.4.1"
   },
   "devDependencies": {
